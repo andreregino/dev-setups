@@ -9,3 +9,6 @@ Todas as configs serão separadas por páginas dentro da Wiki deste projeto.
 * [Módulos](https://github.com/andreregino/dev-setups/wiki/Sublime-M%C3%B3dulos)
 
 
+## Laravel
+* [Instalando Novo Projeto Laravel 5.4] (https://github.com/andreregino/dev-setups/wiki/Laravel-Novo-Projeto)
+
